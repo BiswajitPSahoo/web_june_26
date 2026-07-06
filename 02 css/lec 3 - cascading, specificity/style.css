@@ -1,0 +1,35 @@
+#html.html{
+    background-color: aqua;
+}
+
+.html{
+    background-color: aquamarine;
+}
+
+.html{
+    background-color: black  ;
+}
+
+.html{
+    background-color: yellow ;
+}
+
+li {
+    background-color: red !important ;
+}
+
+li {
+    background-color: blue !important  ;
+}
+
+li{
+    background-color: green !important ;
+}
+
+/*
+element selector  -> (0,1,0) -> 1
+class selector -> (0,1,0) -> 10
+id selector -> (1,0,0) -> 100
+/*
+
+

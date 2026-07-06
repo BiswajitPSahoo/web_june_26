@@ -1,0 +1,13 @@
+#html.html{
+background-color: blueviolet;
+}
+
+body{
+    color: aqua;
+}
+
+ul{
+    font-size: 32px ;
+    font-style: italic;
+    font-weight: 900;
+}
