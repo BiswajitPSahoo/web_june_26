@@ -1,0 +1,20 @@
+.one{
+    background-color: aqua;
+    /*width: 400px;*/
+max-width: 300px;
+
+min-height: 300px;
+}
+
+.parent{
+    background-color: burlywood;
+    max-width: 800px;
+    height: 200px;
+}
+
+.two{
+    max-width: 50%;
+    height: 50%;
+    background-color: blue;
+}
+
