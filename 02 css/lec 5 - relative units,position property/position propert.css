@@ -1,6 +1,6 @@
 ul{
     background-color: brown;
-    position:static;
+    position:relative;
 }
 
 .html{
@@ -20,4 +20,15 @@ ul{
 
     top: 10px;
     left: 10px;
+
+    position: inherit;
+
+    position: unset;
+}
+
+.js{
+    background-color: blueviolet;
+
+    position: fixed;
+
 }
